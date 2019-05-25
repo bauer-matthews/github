@@ -86,6 +86,7 @@ Library
     GitHub.Data.Name
     GitHub.Data.Options
     GitHub.Data.PullRequests
+    GitHub.Data.Reactions
     GitHub.Data.Releases
     GitHub.Data.Repos
     GitHub.Data.Request
